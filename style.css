@@ -1,0 +1,24 @@
+body {
+  margin: 20px;
+}
+
+.pfp img {
+  width: 150px;
+  border-radius: 20px;
+}
+
+.main {
+  border: 1px solid #3a506b;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  margin-inline: auto;
+
+  text-align: center;
+  background-color: #003d5c;
+
+    border-radius: 10px;
+
+  border-bottom: 5px solid #1c2541;
+}
